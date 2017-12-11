@@ -1,0 +1,73 @@
+img {
+	width: 49.84%;
+}
+
+body{
+	background-color: black;
+}
+
+h1{
+	color: orange;
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 80px;
+	text-align: center;
+	width: 100%;
+}
+
+h6{
+	color: orange;
+	font-family: 'Jim Nightshade', cursive;
+}
+
+p{
+	color: orange;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Jim Nightshade', cursive;
+}
+
+.footer{
+	text-align:center;
+}
+
+.logo{
+	margin-left: 34%;
+}
+
+nav{
+ text-align:center;
+ padding-bottom:5px;
+ width: 75%;
+ margin-left: 12.5%;
+}
+
+nav ul {
+ padding-bottom: 6px;
+ list-style:none;
+ background-color:Gray;
+ list-style-type: none;
+}
+
+nav li {
+ display: inline-block;
+ margin-left: 5%;
+ Padding-top:15px;
+ Padding-bottom:7px;
+ position: relative;
+ right: 6%;
+ font-family: 'Garamond';
+}
+
+nav a {
+ color: Black;
+text-decoration:none;
+width: 15%;
+text-align: center;
+text-transform:uppercase;
+ font-size:14px;
+}
+nav a:hover {
+ color: Orange;
+ font-style: italic;
+}
+
